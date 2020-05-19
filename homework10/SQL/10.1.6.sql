@@ -1,0 +1,1 @@
+select * from students where gender = "男" and is_delete = 0 order by age desc

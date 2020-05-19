@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73a7bdba-05da-4cc1-b9f4-4f0fd1a149c4" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bqWnVeBwrFdGJxtJpmbg7Dt3ee" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fzs\Desktop\阿siu python\homework10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.db_related SQLAlchemy">
+    <configuration name="db-search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db-search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_related SQLAlchemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_related SQLAlchemy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_related pymysql (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_related pymysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_related pymysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\fzs\Desktop\阿siu python\homework10\db_related pymysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.db_related SQLAlchemy" />
+        <item itemvalue="Python.db-search" />
+        <item itemvalue="Python.db_related pymysql (1)" />
+        <item itemvalue="Python.db_related pymysql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a7bdba-05da-4cc1-b9f4-4f0fd1a149c4" name="默认更改列表" comment="" />
+      <created>1589360271183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589360271183</updated>
+      <workItem from="1589360284447" duration="7584000" />
+      <workItem from="1589623600026" duration="11685000" />
+      <workItem from="1589889874116" duration="4887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="178" key="FileChooserDialogImpl" timestamp="1589724635139">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="178" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1589724635139" />
+    <state width="1464" height="227" key="GridCell.Tab.0.bottom" timestamp="1589894379528">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1464" height="227" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1589894379528" />
+    <state width="1464" height="227" key="GridCell.Tab.0.center" timestamp="1589894379527">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1464" height="227" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1589894379527" />
+    <state width="1464" height="227" key="GridCell.Tab.0.left" timestamp="1589894379527">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1464" height="227" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1589894379527" />
+    <state width="1464" height="227" key="GridCell.Tab.0.right" timestamp="1589894379528">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1464" height="227" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1589894379528" />
+    <state width="1420" height="281" key="GridCell.Tab.1.bottom" timestamp="1589370869796">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1589370869796" />
+    <state width="1420" height="281" key="GridCell.Tab.1.center" timestamp="1589370869796">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1589370869796" />
+    <state width="1420" height="281" key="GridCell.Tab.1.left" timestamp="1589370869796">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1589370869796" />
+    <state width="1420" height="281" key="GridCell.Tab.1.right" timestamp="1589370869796">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1589370869796" />
+    <state x="233" y="79" key="SettingsEditor" timestamp="1589724646810">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="233" y="79" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1589724646810" />
+    <state x="430" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1589889888169">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="430" y="261" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1589889888169" />
+    <state x="394" y="184" key="search.everywhere.popup" timestamp="1589370545526">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="184" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1589370545526" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework10$db_search.coverage" NAME="db-search Coverage Results" MODIFIED="1589725179622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework10$db_related.coverage" NAME="db_related Coverage Results" MODIFIED="1589369205380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework10$db_related_pymysql__1_.coverage" NAME="db_related pymysql (1) Coverage Results" MODIFIED="1589627011329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework10$db_related_SQLAlchemy.coverage" NAME="db_related SQLAlchemy Coverage Results" MODIFIED="1589894379518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

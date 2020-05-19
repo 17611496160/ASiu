@@ -1,0 +1,1 @@
+select * from students where id >= 3 and id <=8
